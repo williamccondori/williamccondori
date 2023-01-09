@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williamccondori&label=Profile%20views&color=0e75b6&style=flat" alt="williamccondori" /> </p>
 
-- 🔭 I’m currently working on [Veox](https://www.veox.tech/)
-
 - 🌱 I’m currently learning **Deep Learning, Computer Vision, Software Architecture**
 
 - 📫 How to reach me **williamccondori@outlook.com**
